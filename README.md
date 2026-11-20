@@ -6,13 +6,11 @@ Backed by five years of client-facing problem-solving experience from the insura
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ What I have worked on so far
 
-* **Languages:** Python, SQL
-* **Frameworks & Databases:** Flask, PostgreSQL
-* **DevOps & Cloud:** Docker, CI/CD, Git, Linux
-* **Methodologies:** Test-Driven Development (TDD), Agile, Pair Programming
-
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| MakersBnB | Group project: Full-stack property rental application modeled after Airbnb, featuring property listings, booking workflows, and user authentication. | Python, Flask, PostgreSQL | [View Repo](https://github.com/syed653/repo-name) |
 ---
 
 ### 🚀 What I'm Up To
