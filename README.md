@@ -1,8 +1,8 @@
 ## Hi, I'm Syed  👋
 
-I am a Junior DevOps Engineer currently training at Makers Academy (ending 22nd January) building a strong foundation in full-stack development with Python,Flask, and PostgreSQL, alongside Test-Driven Development (TDD) and Agile pair programming.
+I am a Junior DevOps Engineer currently training at Makers Academy (ending 22nd January 2027) building a strong foundation in full-stack development with Python,Flask, and PostgreSQL, alongside Test-Driven Development (TDD) and Agile pair programming.
 
-Backed by five years of client-facing problem-solving experience from the insurance sector, I bring strong communication skills and a track record of translating complex technical requirements into reliable, user-focused solutions.
+Backed by client-facing problem-solving experience from the insurance sector, communicating insurance policy terms clearly to deliver reliable solutions.
 
 ---
 
