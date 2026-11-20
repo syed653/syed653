@@ -10,7 +10,8 @@ Backed by five years of client-facing problem-solving experience from the insura
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| MakersBnB | Group project: Full-stack property rental application modeled after Airbnb, featuring property listings, booking workflows, and user authentication. | Python, Flask, PostgreSQL | [View Repo](https://github.com/syed653/repo-name) |
+| MakersBnB | Group project: Full-stack property rental application modeled after Airbnb, featuring property listings, booking workflows, and user authentication. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | (https://github.com/syed653/Makers_bnb |
+
 ---
 
 ### 🚀 What I'm Up To
